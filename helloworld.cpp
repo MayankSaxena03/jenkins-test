@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     // Prints hello world
-    cout << "Hello World\nTesting Jenkins";
+    cout << "Hello World\nTesting Jenkins\n";
  
     return 0;
 }
